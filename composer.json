@@ -10,7 +10,7 @@
             "email":"mail@{firstname}-{lastname}.de"
         }
     ],
-    "require":{
-        "magento-hackathon/magento-composer-installer":"*"
+    "suggest":{
+        "magento-hackathon/magento-composer-installer":"Magento module installer"
     }
 }
